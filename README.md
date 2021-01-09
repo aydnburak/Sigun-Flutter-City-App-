@@ -3,8 +3,8 @@
 # Flutter ve Firebase kullanılarak Şehirdeki Gezilecek Yerleri Tanıtan uygulama
 
 # Packages
-# flutter_signin_button: ^1.1.0
-# cupertino_icons: ^1.0.0
+flutter_signin_button: ^1.1.0
+cupertino_icons: ^1.0.0
 # firebase_auth: ^0.18.2
 # firebase_core: ^0.5.1
 # get_it: ^5.0.1
