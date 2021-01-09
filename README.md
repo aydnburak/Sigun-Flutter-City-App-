@@ -1,16 +1,20 @@
-# flutter_city_app
+## Sigun (Flutter City App)
 
-A new Flutter application.
+# Flutter ve Firebase kullanılarak Şehirdeki Gezilecek Yerleri Tanıtan uygulama
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Packages
+flutter:
+  flutter_signin_button: ^1.1.0
+  cupertino_icons: ^1.0.0
+  firebase_auth: ^0.18.2
+  firebase_core: ^0.5.1
+  get_it: ^5.0.1
+  provider: ^4.3.2+2
+  google_sign_in: ^4.5.5
+  cloud_firestore: ^0.14.2
+  image_picker: ^0.6.7+12
+  firebase_storage: ^5.0.0
+  carousel_slider: ^2.3.1
+  
+  
+  ![Tanitim 1](https://github.com/aydnburak/Sigun-Flutter-City-App/blob/master/assets/Tanitim/Tanitim1.jpg)
