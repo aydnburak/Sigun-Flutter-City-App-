@@ -2,7 +2,7 @@
 
 Flutter ve Firebase kullanılarak Şehirdeki Gezilecek Yerleri Tanıtan uygulama
 
-![Uygulama Apk](https://drive.google.com/file/d/1PJbTmUtwUsvs3qCXJvmZNhonqXhUuzc_/view?usp=sharing)
+[Uygulama Apk](https://drive.google.com/file/d/1PJbTmUtwUsvs3qCXJvmZNhonqXhUuzc_/view?usp=sharing)
 
 ### dependencies:
 ```
